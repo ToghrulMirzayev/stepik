@@ -29,8 +29,5 @@ try:
     button.click()
 
 finally:
-    # закрываем браузер после всех манипуляций
-    time.sleep(30)
-    browser.quit()
-
-# не забываем оставить пустую строку в конце файла
+	time.sleep(30)
+	browser.quit()
