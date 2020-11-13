@@ -1,5 +1,5 @@
 ﻿# stepik
-задание10
+домашнее задание
 
 
 from selenium import webdriver
