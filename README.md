@@ -1,6 +1,5 @@
 ﻿# stepik
-домашнее задание
-
+домашнее задание по курсу
 
 from selenium import webdriver
 import time
@@ -29,5 +28,5 @@ try:
     button.click()
 
 finally:
-	time.sleep(30)
-	browser.quit()
+    time.sleep(30)
+    browser.quit()
